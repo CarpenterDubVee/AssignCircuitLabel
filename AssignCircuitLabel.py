@@ -2,7 +2,7 @@ import requests
 import json
 
 
-tenant_ID='10000'
+tenant_ID='ENTER TENANT ID'
 Site_ID='Site ID'
 Element_id='ION Element ID'
 Physical_int_ID='Physical WAN Interface'
